@@ -1,2 +1,2 @@
 # WDCNN_classifier_subset
-Subset of bearings code
+Code to test a WDCNN model against differing subsets of data
